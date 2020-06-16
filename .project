@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ErsBlocksGame</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/ErsBlocksGame/ControlPanel.java</name>
+			<type>1</type>
+			<location>C:/Users/HP/Desktop/Java/workspace/ErsBlocksGame/src/ErsBlocksGame/ControlPanel.java</location>
+		</link>
+		<link>
+			<name>src/ErsBlocksGame/ErsBlock.java</name>
+			<type>1</type>
+			<location>C:/Users/HP/Desktop/Java/workspace/ErsBlocksGame/src/ErsBlocksGame/ErsBlock.java</location>
+		</link>
+		<link>
+			<name>src/ErsBlocksGame/ErsBlocksGame.java</name>
+			<type>1</type>
+			<location>C:/Users/HP/Desktop/Java/workspace/ErsBlocksGame/src/ErsBlocksGame/ErsBlocksGame.java</location>
+		</link>
+		<link>
+			<name>src/ErsBlocksGame/ErsBox.java</name>
+			<type>1</type>
+			<location>C:/Users/HP/Desktop/Java/workspace/ErsBlocksGame/src/ErsBlocksGame/ErsBox.java</location>
+		</link>
+		<link>
+			<name>src/ErsBlocksGame/GameCanvas.java</name>
+			<type>1</type>
+			<location>C:/Users/HP/Desktop/Java/workspace/ErsBlocksGame/src/ErsBlocksGame/GameCanvas.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
